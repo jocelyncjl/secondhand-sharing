@@ -10,12 +10,9 @@ export function Logo(){
             </div>
             <div>
                 <img className="h-9 w-9 md:h-11 md:w-11" src={OtterLogo} alt="website logo image" />
- 
-       
             </div>
            
         </div>
     )
-
 }
 

@@ -3,7 +3,7 @@ import TalkingPersons from '../images/persons.jpg';
 export function Persons() {
     return (
         <div className='relative w-full max-w-2xl mx-auto'>
-            <img className='w-full' src={TalkingPersons} alt='Talking persons image'/>
+            <img className='w-full' src={TalkingPersons} alt='Talking persons'/>
             <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
                 {/* Left person's dialogue */}
                 <path d="M15,30 C5,25 3,14 2,10" stroke="black" strokeWidth="0.5" fill="none"/>

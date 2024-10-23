@@ -1,4 +1,3 @@
-import react from 'react';
 import FormBg from '../images/groceries.jpg';
 
 
